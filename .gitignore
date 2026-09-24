@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Build files
+build/
+site/
+dist/
+*.egg-info/
+
+# Data
+data/
+
+# Caches and logs
+.cache/
+.eslintcache
+*.cpuprofile
+*.log
+*.tsbuildinfo
+
+# Examples
+example/
+example.zip
+
+# Temporary files
+TODO
+tmp/
+temp_dir/
+
+# IDEs & Editors
+.idea/
+.vscode/
+*~
+
+# macOS
+.DS_Store
+
+# Never ignore .gitkeep files
+!**/.gitkeep
